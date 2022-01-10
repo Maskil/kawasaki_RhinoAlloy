@@ -1,3 +1,0 @@
-acps
-DESKTOP-J4JKMNM 
-2022”N1ŒŽ11“ú  0:15:43
