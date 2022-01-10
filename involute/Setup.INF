@@ -1,0 +1,9 @@
+[Install]
+Title=•Ôì¬ Inv
+Folder=Inv
+1=Involute.exe
+2=dxf.dat
+3=Readme.txt
+4=Inv.cnt
+5=INV.HLP
+Open=Readme.txt
